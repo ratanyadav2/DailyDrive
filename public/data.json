@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userid": "john_nit",
+      "password": "john@nit",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": "2",
+      "userid": "david",
+      "password": "david11",
+      "email": "david@outlook.com"
+    },
+    {
+      "id": "8b8b",
+      "userid": "sanjay",
+      "password": "sanjaya111",
+      "email": "sanjay@gmail.com"
+    },
+    {
+      "id": "29ce",
+      "userid": "ram",
+      "password": "1245",
+      "email": "214ramanyadav@gmail.com"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "1",
+      "title": "Friend Birthday",
+      "date": "2025-03-22",
+      "userid": "john_nit"
+    },
+    {
+      "id": "2",
+      "title": "Submit Project Document",
+      "date": "2025-03-18",
+      "userid": "david"
+    },
+    {
+      "id": "5964",
+      "title": "Project",
+      "date": "2025-04-16",
+      "userid": "david"
+    },
+    {
+      "id": "9417",
+      "title": "huiknj74785",
+      "date": "0005-04-08",
+      "userid": "ram"
+    }
+  ]
+}
